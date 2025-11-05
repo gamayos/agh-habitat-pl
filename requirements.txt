@@ -1,0 +1,4 @@
+# Core dependencies for agh-habitat-pl
+earthengine-api
+jupyter
+notebook
